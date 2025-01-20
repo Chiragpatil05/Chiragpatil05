@@ -5,7 +5,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=B22DF7&random=true&width=435&lines=Hey+%F0%9F%91%8B+%2C+I'm+Chirag+Patil+;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%91%8B+%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%9A%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%97+%E0%A4%AA%E0%A4%BE%E0%A4%9F%E0%A4%BF%E0%A4%B2+%E0%A4%B9%E0%A5%82%E0%A4%81;%E0%A4%B9%E0%A5%85%E0%A4%B2%E0%A5%8B+%F0%9F%91%8B%2C+%E0%A4%AE%E0%A5%80+%E0%A4%9A%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%97+%E0%A4%AA%E0%A4%BE%E0%A4%9F%E0%A5%80%E0%A4%B2+%E0%A4%86%E0%A4%B9%E0%A5%87)](https://git.io/typing-svg)
+<h1 align="center">Hey there 👋! I'm Chirag Patil</h1>
 
 ###
 
