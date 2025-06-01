@@ -10,6 +10,7 @@
 ###
 
 <p align="left">
+  💻 Associate Software Engineer @Intellicus
   🔭 I’m currently working on AgilePro - "Software Project Management Tool" <br><br>
   🌱 I’m currently learning Next.js and enhancing my problem-solving skills. <br><br>
   🚀 I have participated in multiple hackathons and won two of them. <br><br>
