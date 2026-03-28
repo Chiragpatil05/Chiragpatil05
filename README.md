@@ -12,8 +12,7 @@
 <p align="left">
   💻 Associate Software Engineer @Intellicus || @KyvosInsights <br><br>
   🌱 Backend-focused engineer exploring Spring Boot, System Design & Scalable Architectures. <br><br>
-  🚀 I have participated in multiple hackathons and won two of them. <br><br>
-  ✨ Skilled in MERN stack & problem solving <br><br>
+  🚀 Winner of multiple hackathons. <br><br>
   🌐 Portfolio Website: <a href="https://chirag-portfolio-eta.vercel.app/" target="_blank">chirag-portfolio-eta.vercel.app</a> <br><br>
   📃 My Resume: <a href="http://tiny.cc/ChiragPatil-Portfolio" target="_blank">Chirag Resume</a> <br><br>
   👨‍💻 All of my projects are available at: <a href="https://github.com/Chiragpatil05" target="_blank">github.com/Chiragpatil05</a> <br><br>
